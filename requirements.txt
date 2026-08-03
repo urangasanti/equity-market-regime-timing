@@ -1,0 +1,21 @@
+# Core data stack
+pandas
+numpy
+scipy
+
+# Data sources
+fredapi
+yfinance
+
+# Modeling
+scikit-learn
+imbalanced-learn
+catboost
+xgboost
+hmmlearn
+statsmodels
+optuna
+
+# Plotting / notebooks
+matplotlib
+ipython
